@@ -2,7 +2,12 @@
 
 This project, provides a **robust solution for processing and visualizing large geospatial datasets (specifically Cloud Optimized GeoTIFFs - COG) directly on iOS devices**. It eliminates the need for external cloud services for map tile generation, offering a truly **offline-first and performant mapping experience**.
 
-![Mind Map](Explanation/Mind Map.png)
+### Demo Video
+
+### Notebooklm Audio
+
+### Mind Map
+![Mind Map](https://github.com/alimysoyang/GDAL_Tile/blob/main/Explanation/Mind%20Map.png)
 
 ## 1. Purpose
 
