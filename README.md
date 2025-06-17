@@ -79,3 +79,8 @@ This architecture provides a powerful and flexible foundation for building advan
 * To use the Mapbox SDK, you will need to add your MBXAccessToken to the Info settings of the GDALKitDemo project.
   
   ![Set Info](https://github.com/alimysoyang/GDAL_Tile/blob/main/Explanation/info.png)
+
+
+# Other Development
+* Implement settings for the individual color bands (Red, Green, Blue) of TIFF files.
+* Add controls to adjust the contrast, brightness, and gamma of TIFF files.
