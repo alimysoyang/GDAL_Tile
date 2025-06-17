@@ -2,6 +2,8 @@
 
 This project, provides a **robust solution for processing and visualizing large geospatial datasets (specifically Cloud Optimized GeoTIFFs - COG) directly on iOS devices**. It eliminates the need for external cloud services for map tile generation, offering a truly **offline-first and performant mapping experience**.
 
+![Mind Map](Explanation/Mind Map.png)
+
 ## 1. Purpose
 
 The primary purpose of this code is to demonstrate and enable **on-the-fly map tile generation from large COG files within an iOS application**. It showcases how the powerful GDAL (Geospatial Data Abstraction Library) can be leveraged on mobile platforms to handle complex geospatial operations, specifically the conversion of raw raster data into displayable map tiles (PNGs).
