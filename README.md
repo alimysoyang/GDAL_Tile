@@ -1,4 +1,4 @@
-# GDALKitDemo Application: Local Geospatial Tile Generation for iOS
+# Local Geospatial Tile Generation for iOS
 
 This project, provides a **robust solution for processing and visualizing large geospatial datasets (specifically Cloud Optimized GeoTIFFs - COG) directly on iOS devices**. It eliminates the need for external cloud services for map tile generation, offering a truly **offline-first and performant mapping experience**.
 
