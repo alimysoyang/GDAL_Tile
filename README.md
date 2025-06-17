@@ -77,3 +77,4 @@ This architecture provides a powerful and flexible foundation for building advan
 * The GDAL for iOS static library is not provided in the project. Please navigate to [Shell](https://gis.stackexchange.com/questions/434514/build-gdal-3-x-for-ios) and use the provided script to compile it yourself.
 
 * Please enter your MBXAccessToken in the Info settings for the GDALKitDemo project.
+  ![Set Info](https://github.com/alimysoyang/GDAL_Tile/blob/main/Explanation/info.png)
